@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544131412189",
+    "project_id": "chat-fusion-7faa7",
+    "storage_bucket": "chat-fusion-7faa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544131412189:android:4c0189f74d452fc4b16b34",
+        "android_client_info": {
+          "package_name": "uk.ac.d3812242"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2qxVRZT66dWyJ10ovN6qys7OlPnbJnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
